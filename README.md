@@ -102,3 +102,18 @@ Citar con Markdown se ve de la siguiente forma:
 >Richardson Poter, *Teoría de Conjuntos y suuperconjuntos*, 2014
 
 
+Lineas divisorias y saltos de lineas
+
+LINEAS:
+
+---
+***
+___
+
+SALTOS DE LINEA:
+
+Este es primer parrafo.
+
+Este es el segundo parrafo.
+
+Este es nuestro tercer parrafo.
