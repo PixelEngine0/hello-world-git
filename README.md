@@ -93,3 +93,12 @@ Es posible representar con Markdown al igual que con HTML una tabla:
 | Maxi | Burgos | 20143452
 | Thomas | Pietri| 19998796
 
+Citar con Markdown se ve de la siguiente forma:
+
+"A la hora de crear overclocking dentro del hardaware su reloj interno se acelera a mas 1.4 ghz por minuto"
+>Times Science, *Overclocking for dummies*
+
+"Mientras que los elemento de un universo formen parte de un subconjunto intersección, se da por hecho la existencia de dos o más subconjuntos en el mismo universo"
+>Richardson Poter, *Teoría de Conjuntos y suuperconjuntos*, 2014
+
+
