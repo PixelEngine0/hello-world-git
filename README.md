@@ -32,3 +32,10 @@ Las listas son usadas para ordenas elementos de forma ordenada o no ordenada:
 - Esto es un Item de lista desordenada.
 - Esto es un Item de lista desordenada.
 - Esto es un Item de lista desordenada.
+
+Los links son enlaces redireccionables a una dirección local/web establecida
+
+- <a href="http://google.com">Esto es un link HTML</a>
+- [Esto es un link en Markdown](http>//google.com)
+- [Esto es un link al index](index.html)
+
