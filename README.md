@@ -85,3 +85,11 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+Es posible representar con Markdown al igual que con HTML una tabla:
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi | Burgos | 20143452
+| Thomas | Pietri| 19998796
+
