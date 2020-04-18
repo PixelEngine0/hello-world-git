@@ -117,3 +117,5 @@ Este es primer parrafo.
 Este es el segundo parrafo.
 
 Este es nuestro tercer parrafo.
+
+# Versión actual: v1.2.2
